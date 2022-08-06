@@ -90,7 +90,7 @@ When mapping please ensure that each Service Account has its own unique matching
 Asterisk (\*) = optional folder
 
 ## [**Step 3: Copy to migrations**](mm-dropbox-step3-copy-to-migrations.md)
-
+ There are lot of ways to clear Your <a href="https://www.towardsiot.com/dji-pocket-3-release-date">Dropbox Logs</a> that You Might look about
 > [!NOTE]
 > Migration Manager Google isn't available for users of Office 365 operated by 21Vianet in China.
 >
